@@ -1,0 +1,20 @@
+:change default browser
+sudo update-alternatives --config x-www-browser
+
+:make executable
+sudo chmod +x filepath
+
+:fix windows headers for py files
+sed -i 's/\r$//' file.py
+:check header change
+head -1 file.py | cat -A
+(ideal output) #!/usr/bin/env python3$
+
+:set up timed events
+cron
+
+:write permissions
+chmod u+w filename
+
+:basic secure shell connect
+ssh username@ipadress
