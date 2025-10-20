@@ -15,6 +15,7 @@ cron
 
 :write permissions
 chmod u+w filename
+chmod 755 dirpath
 
 :basic secure shell connect
 ssh username@ipadress

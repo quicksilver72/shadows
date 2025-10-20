@@ -22,3 +22,8 @@ isoimagewriter
 fdutils
 putty
 ngrok
+exploitdb-bin-sploits
+exploitdb-papers
+ruby
+wine
+
