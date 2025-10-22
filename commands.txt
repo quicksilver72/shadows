@@ -4,6 +4,14 @@ sudo update-alternatives --config x-www-browser
 :make executable
 sudo chmod +x filepath
 
+:add user
+adduser <username>
+
+:adduser to group
+
+:shows dir space available and used
+df -Th /directory
+
 :fix windows headers for py files
 sed -i 's/\r$//' file.py
 :check header change
@@ -19,3 +27,9 @@ chmod 755 dirpath
 
 :basic secure shell connect
 ssh username@ipadress
+
+:distro logo and info ASCII
+screenfetch
+
+:change hostname
+sudo hostnamectl set-hostname <new_hostname>

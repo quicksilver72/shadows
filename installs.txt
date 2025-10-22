@@ -31,4 +31,5 @@ katana
 bluez-tools
 libbluetooth-dev
 koadic
+screenfetch
 
