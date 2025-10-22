@@ -8,3 +8,9 @@ kickthemout
 pybluez
 bluez
 blueducky
+xerxes
+eternal_scanner
+morpheus
+fluxion
+packer
+

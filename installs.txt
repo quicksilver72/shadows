@@ -30,4 +30,5 @@ subfinder
 katana
 bluez-tools
 libbluetooth-dev
+koadic
 
