@@ -3,3 +3,8 @@ blackeye (phishing)
 zphisher (phishing)
 fuzzdb
 xsstrike
+phpsploit
+kickthemout
+pybluez
+bluez
+blueducky

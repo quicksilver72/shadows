@@ -25,5 +25,9 @@ ngrok
 exploitdb-bin-sploits
 exploitdb-papers
 ruby
-wine
+golang-go
+subfinder
+katana
+bluez-tools
+libbluetooth-dev
 
